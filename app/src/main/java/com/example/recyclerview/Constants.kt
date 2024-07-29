@@ -1,0 +1,81 @@
+package com.example.recyclerview
+
+object Constants {
+    val songName = listOf<String>(
+        "Skyfall",
+        "My Eyes",
+        "Summertime Sadness",
+        "Under The Influence",
+        "Cool For The Summer",
+        "One Of The Girls",
+        "Shape Of You",
+        "On The Floor",
+        "Way Down We Go",
+        "I Like",
+        "Girls Like You",
+        "Super Freaky Girl",
+        "Closer",
+        "Sunflower",
+        "Love The Way You Lie",
+        "Work From Home",
+        "Somebody That I Use To Know",
+        "Side To Side",
+        "Not Afraid",
+        "Mo Bounce",
+        "I Took A Pill In Ibiza",
+        "24K Magic",
+        "Like That"
+    )
+
+    val ArtistName = listOf<String>(
+        "Adele",
+        "Travis Scott",
+        "Lana Del Ray",
+        "Chris Brown",
+        "Demi Lovato",
+        "The Weekend",
+        "Ed Sheeran",
+        "Jennifer Lopez",
+        "Kaleo",
+        "Rubi Rose",
+        "Maroon 5",
+        "Nicki Minaj",
+        "The Chainsmokers",
+        "Post Malone",
+        "Rihanna",
+        "Fifth Harmony",
+        "Gotye",
+        "Ariana Grande",
+        "Eminem",
+        "Iggy Azalea",
+        "Mike Posner",
+        "Bruno Mars",
+        "Doja Cat"
+    )
+
+    val PosterList = listOf<Int>(
+        R.drawable.skyfall,
+        R.drawable.my_eyes,
+        R.drawable.summertime_sadness,
+        R.drawable.under_the_influence,
+        R.drawable.cool_for_the_summer,
+        R.drawable.one_of_the_girls,
+        R.drawable.shape_of_you,
+        R.drawable.on_the_floor,
+        R.drawable.way_down_we_go,
+        R.drawable.i_like,
+        R.drawable.girls_like_you,
+        R.drawable.super_freaky_girl,
+        R.drawable.closer,
+        R.drawable.sunflower,
+        R.drawable.love_the_way_you_lie,
+        R.drawable.work_from_home,
+        R.drawable.somebody_that_i_use_to_know,
+        R.drawable.side_to_side,
+        R.drawable.not_afraid,
+        R.drawable.mo_bounce,
+        R.drawable.i_took_a_pill_in_ibiza,
+        R.drawable.magic_24k,
+        R.drawable.like_that
+    )
+}
